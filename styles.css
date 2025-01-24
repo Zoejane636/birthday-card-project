@@ -1,0 +1,28 @@
+body {
+    background-color: #87CEEB; /* 天蓝色背景 */
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+.card {
+    background-color: #FFFFFF; /* 白色卡片 */
+    width: 60%;
+    margin: 50px auto;
+    padding: 20px;
+    border-radius: 15px; /* 圆角 */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* 阴影效果 */
+    color: #6A5ACD; /* 紫色文字 */
+    font-size: 18px;
+}
+
+h1 {
+    font-size: 36px;
+    text-shadow: 2px 2px #FFD700; /* 金色阴影 */
+}
+
+p {
+    margin: 10px 0;
+    line-height: 1.6;
+}
